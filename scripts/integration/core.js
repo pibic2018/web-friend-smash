@@ -26,9 +26,9 @@
     - create a new App and retrieve the app ID and namespace from Facebook
     Developer site at https://developers.facebook.com/apps
 */
-var server_url = "https://friendsmashsample.herokuapp.com";
-var appId = '480369938658210';
-var appNamespace = 'friendsmashsample';
+var server_url = "https://agrolandia.herokuapp.com/";
+var appId = '162411127828792';
+var appNamespace = 'agrolandy';
 var appCenterURL = '//www.facebook.com/appcenter/' + appNamespace;
 
 var g_useFacebook = true;
